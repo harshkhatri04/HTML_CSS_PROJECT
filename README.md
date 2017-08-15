@@ -2,12 +2,6 @@
 # HTML_CSS_PROJECT
 Synopsis
 
-Then in another folder i have made the webpage using bootstrap framework.
-
-Code Example
-
-Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
-
 Motivation
 
 html helped to make my website effective and its easy to use
